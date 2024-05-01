@@ -7,28 +7,28 @@ I'm an engineer who wants to become a Data Scientist
 I began my career as an engineer in construction before deciding to pursue further education by attending engineering classes to enhance my skills in planning and design.
 Currently, I am a state-certified engineer working in the architectural sector. 
 My primary role involves planning and constructing windows, ranging from individual units to large-scale facades, as well as designing special constructions customized to the unique requirements of our clients.
-I always wanted to work in the IT sector, but due to different reasons and decisions, I first became an engineer.
-I had some IT classes in school and engineering class and I really enjoyed it a lot.
-A few years ago, I heard about Data Science and it sounded very interesting, but I didn't delve further into this topic.
-At the end of 2023, I delved deeper into the topics and the work of a data scientist and I could identify myself 100% with this job, so I decided to start studying Data Science at the start of 2024.
-I don't have a lot of time between work and all my studies, but I will put a lot of effort and time into my new goal!
+I always wanted to work in the IT sector, I had IT classes in school and engineering course and I really enjoyed it a lot.
+I first heard about Data Science a few years ago, and it really caught my interest.
+AT the end of 2023, I decided to research more about data science and what a job in data science may involve.
+I believe I have the right skills and mindset for this job. At the start of 2024, I began to study data science. 
+Although I work a full time job, I am willing to put in a lot of effort to achieve my goals
 </details>
 
 ## Languages
 
 - Mother Tongue: German
-- Second: English (I would say I'm at a C1 Level although without certificate)
+- Second: English (I would say I'm at a C1 Level without certificate)
 - Other: Luxembourgish
-- Currently Lerning: French (I started Learning Fernch since 01.01.2024)
+- Currently Learning: French (I started Learning Fernch since 01.01.2024)
 
 
 ## Hobbies & Interests
 
-- Photographing
+- Photography
 - Computer science
 - Drawing/Sketching
-- Mountain bike
-- Traveling
+- Mountain biking 
+- Travelling
 - Cooking
 - Gaming
 - Woodworking/Metalworking
