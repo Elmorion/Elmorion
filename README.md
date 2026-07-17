@@ -19,7 +19,7 @@ Although I work a full time job, I am willing to put in a lot of effort to achie
 - Mother Tongue: German
 - Second: English (I would say I'm at a C1 Level without certificate)
 - Other: Luxembourgish
-- Currently Learning: French (I started Learning Fernch since 01.01.2024)
+- Currently Learning: French
 
 
 ## Hobbies & Interests
